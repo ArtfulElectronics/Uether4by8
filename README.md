@@ -34,3 +34,14 @@ The keys here are the numbers, symbols and some other useful keys such as Print 
 ![The Second Layer](images/second_layer.png)
 
 Note that Auto Shift remains working on all layers. So we could type the `!` symbol by holding the `[LT2]` key (to activate the layer 2), then press and hold the `1` key just a bit longer. No home row mods is necessary on these layers (unless you need to Ctrl / Alt them).
+
+Lases Cut Scripts
+-----------------
+
+The script generates 3 files `bottom_5mm.svg`, `pcb_1.5mm.svg` and `top_2mm.svg` of dimension 100mm x 500mm. The suffix indicates the indended material thickness.
+
+The designed components are
+
+ - the main body for the split keyboard,
+ - the keycaps, and
+ - the jig to connect the stem and the surface part of a keycap.
